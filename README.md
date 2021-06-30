@@ -20,7 +20,7 @@ Tipps:
 - progm + F1 -> Print the status (use an editor to print the status)
 - progm + shift + Esc - enable the PUM (Power User Mode)
 - progm + F1 -> open the V-Drive (PUM must be enabled before)
-- progm + F9  then 0-9 -> change macro speed (0 - off, 9 - fastest)
+- progm + F10  then 0-9 -> change macro speed (0 - off, 9 - fastest)
 - progm + shift + F8 -> (dis)(en)able silly sound effects
 - progm + F8 -> (dis)(en)able silly click sound effects
 - progm + {key} -> change to Hotkey layer
