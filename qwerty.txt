@@ -1,0 +1,8 @@
+[\]>[']
+[cbrack]>[intl-\]
+[intl-\]>[`]
+[`]>[intl-\]
+[hyphen]>[obrack]
+[obrack]>[']
+[']>[\]
+[ralt]>[rwin]
