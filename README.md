@@ -1,5 +1,5 @@
 # Kinesis-Advantage-2---Layouts
-Ergonomic Layouts (NEO, Bone) for Kinesis Advantage 2
+Ergonomic Layouts NEO 2.0 for Kinesis Advantage 2
 
 This Layouts are for the KB600-DE
 At first [RTFM] Read The Fucking Manual
